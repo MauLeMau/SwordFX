@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/VFX_Niagara/NS_Swords_1.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Circle.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/XC/UPPXFM2F9EZGINFXJUI5E7.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Circle_Fresnel.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Cloud_Noise.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/FBM_Noise_3.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/FBM_noise_1.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Wave_5.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Dot.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Glow_2_B.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/Master/M_Master_Circle.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/Master/M_Master.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/Master/M_Master_Masked.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Sword.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Sword_Placeholder.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Sword_Placeholder_Mask.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Flare.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Flare_4.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Wing.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Wing2.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/Master/M_Master_Wing.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Wing_Placeholder.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Wing_Placeholder_Mask.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Wing_Double.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/LightRay_Black.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Wing_Placeholder_2.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Textures/Wing_Placeholder_Mask_2.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Lightcone.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Master_Circle.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Master.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Master_Masked.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Master/M_Master.uasset",
+				"C:/Users/crazy/Documents/SwordVFX/Sword_VFX/Content/Materials/M_Master/M_Master_Circle.uasset"
+			]
+		}
+	]
+}
